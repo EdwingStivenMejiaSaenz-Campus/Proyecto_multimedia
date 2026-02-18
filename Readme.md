@@ -3,23 +3,23 @@
 
 ---
 
-### Institución
+### Institución  
 Unidades Tecnológicas de Santander  
 
-### Programa
+### Programa  
 Tecnología en Desarrollo de Sistemas Informáticos  
 
-### Asignatura
+### Asignatura  
 Desarrollo de Contenidos Digitales y Multimediales  
 
-### Docente
+### Docente  
 Eliecer Montero Ojeda  
 
-### Integrantes
+### Integrantes  
 - Edwing Stiven Mejía Sáenz  
 - Jose Luis Olachica Velasco  
 
-### Fecha
+### Fecha  
 16/02/2026  
 
 ---
@@ -31,7 +31,7 @@ Eliecer Montero Ojeda
 **Título:** Vista Aérea Del Estadio De Fútbol De Jönköping, Suecia  
 **Autor:** Efrem Efre  
 **Fuente:** Pexels  
-**Enlace:** https://www.pexels.com/es-es/foto/vista-aerea-del-estadio-de-futbol-de-jonkoping-suecia-35065674/  
+**Enlace:** [Vista aérea del estadio en Pexels](https://www.pexels.com/es-es/foto/vista-aerea-del-estadio-de-futbol-de-jonkoping-suecia-35065674/)  
 **Formato:** .webp  
 
 ---
@@ -41,17 +41,13 @@ Eliecer Montero Ojeda
 Licencia Pexels  
 
 Permite:
-- Uso gratuito
-- Uso académico
-- Uso comercial
-- No requiere atribución obligatoria
-- No permite reventa individual del archivo
+- Uso gratuito  
+- Uso académico  
+- Uso comercial  
+- No requiere atribución obligatoria  
+- No permite reventa individual del archivo  
 
----
-
-### Captura de verificación
-
-![Licencia Imagen](licencias/LicenciaEstadio.png)
+Licencia oficial: [Licencia Pexels](https://www.pexels.com/license/)  
 
 ---
 
@@ -71,7 +67,7 @@ El recurso cumple con la licencia Pexels, garantizando su uso legal dentro del p
 **Título:** Relato de fútbol  
 **Autor:** cele14  
 **Fuente:** Freesound  
-**Enlace:** https://freesound.org/s/186920/  
+**Enlace:** [Audio en Freesound](https://freesound.org/s/186920/)  
 **Formato:** .mp3  
 
 ---
@@ -81,10 +77,12 @@ El recurso cumple con la licencia Pexels, garantizando su uso legal dentro del p
 Creative Commons Attribution-NonCommercial 3.0 (CC BY-NC 3.0)
 
 Permite:
-- Uso académico
-- Modificación
-- Distribución con atribución
-- No permite uso comercial
+- Uso académico  
+- Modificación  
+- Distribución con atribución  
+- No permite uso comercial  
+
+Licencia oficial: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)  
 
 ---
 
@@ -94,12 +92,6 @@ Audio: "Relato de fútbol" por cele14
 Fuente: Freesound  
 Licencia: CC BY-NC 3.0  
 Uso: Proyecto académico sin fines comerciales.
-
----
-
-### Captura de verificación
-
-![Licencia Audio](licencias/LicenciaAudio.png)
 
 ---
 
@@ -117,6 +109,7 @@ Se respeta la atribución obligatoria y se limita su uso a fines estrictamente a
 
 **Autor:** Sergej Majboroda  
 **Formato:** .gltf / .glb  
+**Enlace:** [Modelo 3D en Polyhaven](https://polyhaven.com/a/stadium_01)  
 
 ---
 
@@ -125,17 +118,13 @@ Se respeta la atribución obligatoria y se limita su uso a fines estrictamente a
 Creative Commons 0 (CC0)
 
 Permite:
-- Uso comercial
-- Modificación
-- Distribución
-- No requiere atribución
-- Uso libre sin restricciones
+- Uso comercial  
+- Modificación  
+- Distribución  
+- No requiere atribución  
+- Uso libre sin restricciones  
 
----
-
-### Captura de verificación
-
-![Licencia Modelo 3D](licencias/Licencia3D.png)
+Licencia oficial: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
 
@@ -151,6 +140,6 @@ La licencia CC0 garantiza libertad total de uso, asegurando compatibilidad legal
 
 Todos los recursos multimedia utilizados en el presente proyecto fueron seleccionados bajo licencias verificadas y compatibles con fines académicos.  
 
-Se documentó cada fuente, se verificaron sus condiciones legales y se anexaron capturas como evidencia de cumplimiento normativo.  
+Se documentó cada fuente, se verificaron sus condiciones legales y se anexaron links como evidencia de cumplimiento normativo.  
 
 El proyecto cumple con los principios de uso legal de contenido digital y buenas prácticas en desarrollo multimedia.
